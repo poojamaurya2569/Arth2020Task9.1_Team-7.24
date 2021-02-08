@@ -7,5 +7,5 @@ def simple_interest(p,t,r):
 
     print('The Simple Interest is',si)
     return si
+(simple_interest(8,6,8))
 
-isimple_interest(8,6,8)
